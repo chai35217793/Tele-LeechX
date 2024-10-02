@@ -33,3 +33,4 @@ urllib3==1.26.5
 yt-dlp
 flask
 gunicorn
+lxml[html_clean]
