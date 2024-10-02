@@ -1,5 +1,5 @@
 aiohttp
-aria2p==0.9.1
+aria2p
 beautifulsoup4
 bs4
 cfscrape
@@ -31,3 +31,5 @@ telegraph
 tgcrypto
 urllib3
 yt-dlp
+flask
+gunicorn
